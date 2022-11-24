@@ -1,0 +1,6 @@
+# update repo cache
+sudo apt update
+# install ansible
+sudo apt install ansible
+# checking ansible version
+ansible --version
