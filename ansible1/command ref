@@ -1,0 +1,1 @@
+ansible dbservers -m shell -a "hostnamectl set-hostname ubun74" -K
